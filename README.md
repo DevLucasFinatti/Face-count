@@ -58,19 +58,6 @@ Por esta:
 cap = cv2.VideoCapture('video.mp4')
 ```
 
----
-
-## 📁 Estrutura do projeto
-
-```
-FaceMesh-Counter/
-├── main.py            # Código principal com reconhecimento facial
-├── README.md          # Este arquivo incrível 😎
-└── requirements.txt   # (Opcional) Dependências do projeto
-```
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido com 🧠, ☕ e Python por **Lucas Finatti**  
