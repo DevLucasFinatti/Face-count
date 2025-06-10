@@ -29,8 +29,8 @@ pip install opencv-python mediapipe
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/DevLucasFinatti/Face-count.git
+cd Face-count
 ```
 
 Execute o script:
